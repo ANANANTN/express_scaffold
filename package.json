@@ -1,0 +1,12 @@
+{
+	"name": "node_express_scaffold",
+	"version": "0.0.0",
+	"author": "Anthony Norton <nortonanthonya@gmail.com",
+	"description": "Basic node scafold",
+	"scripts": {},
+	"dependencies": {
+		"express": "latest",
+		"mongoose": "latest",
+		"jade": "latest"
+	}
+}

@@ -1,0 +1,1 @@
+node_express_scaffold is intended as a very basic, but functional Express.js scaffold with mongoose.
